@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#0c1a12"/>
+  <g fill="#16301f">
+    <text x="600" y="470" font-family="Georgia, serif" font-size="420" font-weight="bold" text-anchor="middle">21</text>
+    <text x="180" y="200" font-family="Georgia, serif" font-size="150" text-anchor="middle">&#9824;</text>
+    <text x="1020" y="200" font-family="Georgia, serif" font-size="150" text-anchor="middle">&#9827;</text>
+    <text x="180" y="720" font-family="Georgia, serif" font-size="150" text-anchor="middle">&#9829;</text>
+    <text x="1020" y="720" font-family="Georgia, serif" font-size="150" text-anchor="middle">&#9830;</text>
+  </g>
+</svg>
