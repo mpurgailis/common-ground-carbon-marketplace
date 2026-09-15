@@ -2,6 +2,7 @@ name: Unpack source
 on:
   push:
     paths: ["foundation-source.tar.gz"]
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
